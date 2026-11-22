@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "url": "https://amotken.github.io/",
-  "notes": "Tutte le caselle con le cartelle unite (Bozze, Inviata, Archivio, Spam, Cestino) e aggiornamento automatico.",
-  "installerUrl": "https://github.com/Amotken/amotken.github.io/releases/download/v0.2.0/EZMail-Setup-0.2.0.exe",
-  "sha256": "2ec1e88b3a9e78f28d9e224cdb2bd81ae92e2da15ac9aa2c651ee142150cf254"
+  "notes": "Nelle Impostazioni c'è \"Aggiorna EZMail automaticamente\".",
+  "installerUrl": "https://github.com/Amotken/amotken.github.io/releases/download/v0.2.1/EZMail-Setup-0.2.1.exe",
+  "sha256": "4c04780994a40b2118c9449e2daf6f65f5d1bad4f07f5e1ed82688c64aa42425"
 }
